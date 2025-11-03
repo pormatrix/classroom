@@ -1,0 +1,5 @@
+{
+  "name": "Classroom Admin App (ม.6/2568)",
+  "description": "A web application for managing 6th-grade classroom administrative tasks for the academic year 2568, including daily health checks, student growth tracking, and weekly scheduling.",
+  "requestFramePermissions": []
+}
